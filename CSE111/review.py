@@ -1,0 +1,5 @@
+name = input("What is your name? ")
+print("3")
+print("2")
+print("1")
+print("Welcome to CSE111 " + name )
